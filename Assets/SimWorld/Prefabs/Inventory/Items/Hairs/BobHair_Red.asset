@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4079010b71569ad4294f7f3e9aac335a, type: 3}
+  m_Name: BobHair_Red
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: f704131589c46ef4fb67936d24c08bfd, type: 3}
+  cost: 100
+  prefab: {fileID: 2436060892329080381, guid: 208b894f76aacf949a8c578fc4de873f, type: 3}
